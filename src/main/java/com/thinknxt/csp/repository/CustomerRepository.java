@@ -1,8 +1,9 @@
-package com.coderdot.repository;
+package com.thinknxt.csp.repository;
 
-import com.coderdot.entities.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
+
+import com.thinknxt.csp.entities.Customer;
 
 import java.util.Optional;
 

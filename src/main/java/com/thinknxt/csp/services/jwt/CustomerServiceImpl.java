@@ -1,7 +1,8 @@
-package com.coderdot.services.jwt;
+package com.thinknxt.csp.services.jwt;
 
-import com.coderdot.entities.Customer;
-import com.coderdot.repository.CustomerRepository;
+import com.thinknxt.csp.entities.Customer;
+import com.thinknxt.csp.repository.CustomerRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

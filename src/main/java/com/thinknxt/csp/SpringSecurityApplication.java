@@ -1,4 +1,4 @@
-package com.coderdot;
+package com.thinknxt.csp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

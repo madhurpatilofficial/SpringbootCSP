@@ -1,4 +1,4 @@
-package com.coderdot.entities;
+package com.thinknxt.csp.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

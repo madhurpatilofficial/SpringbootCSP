@@ -1,8 +1,9 @@
-package com.coderdot.services;
+package com.thinknxt.csp.services;
 
-import com.coderdot.dto.SignupRequest;
-import com.coderdot.entities.Customer;
-import com.coderdot.repository.CustomerRepository;
+import com.thinknxt.csp.dto.SignupRequest;
+import com.thinknxt.csp.entities.Customer;
+import com.thinknxt.csp.repository.CustomerRepository;
+
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;

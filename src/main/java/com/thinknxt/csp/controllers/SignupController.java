@@ -1,8 +1,9 @@
-package com.coderdot.controllers;
+package com.thinknxt.csp.controllers;
 
-import com.coderdot.dto.SignupRequest;
-import com.coderdot.entities.Customer;
-import com.coderdot.services.AuthService;
+import com.thinknxt.csp.dto.SignupRequest;
+import com.thinknxt.csp.entities.Customer;
+import com.thinknxt.csp.services.AuthService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,9 +1,10 @@
-package com.coderdot.controllers;
+package com.thinknxt.csp.controllers;
 
-import com.coderdot.dto.HelloResponse;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.thinknxt.csp.dto.HelloResponse;
 
 @RestController
 @RequestMapping("/api")

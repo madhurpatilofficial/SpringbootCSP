@@ -1,9 +1,10 @@
-package com.coderdot.controllers;
+package com.thinknxt.csp.controllers;
 
-import com.coderdot.dto.LoginRequest;
-import com.coderdot.dto.LoginResponse;
-import com.coderdot.services.jwt.CustomerServiceImpl;
-import com.coderdot.utils.JwtUtil;
+import com.thinknxt.csp.dto.LoginRequest;
+import com.thinknxt.csp.dto.LoginResponse;
+import com.thinknxt.csp.services.jwt.CustomerServiceImpl;
+import com.thinknxt.csp.utils.JwtUtil;
+
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;

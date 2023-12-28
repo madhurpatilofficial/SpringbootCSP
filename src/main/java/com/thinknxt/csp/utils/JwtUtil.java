@@ -1,4 +1,4 @@
-package com.coderdot.utils;
+package com.thinknxt.csp.utils;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
